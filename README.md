@@ -1,4 +1,3 @@
-<img alt="Static Badge" src="https://img.shields.io/badge/KALI%20LINUX-00ff00?style=for-the-badge&logo=nmap&logoColor=red&color=black">
 
 <div align="center">
 ![Static Badge](https://img.shields.io/badge/PYTHON-00ff00?style=for-the-badge&logo=python&color=black)
@@ -7,4 +6,8 @@
 ![Static Badge](https://img.shields.io/badge/HTML-00ff00?style=for-the-badge&logo=html5&logoColor=orange&color=black)
 ![Static Badge](https://img.shields.io/badge/CSS-00ff00?style=for-the-badge&logo=css3&logoColor=blue&color=black)
 ![Static Badge](https://img.shields.io/badge/KALI%20LINUX-00ff00?style=for-the-badge&logo=kali-linux&logoColor=red&color=black)
+
+<img src=" https://img.shields.io/badge/PYTHON-00ff00?style=for-the-badge&logo=python&color=black">
+
+ 
 </div>
